@@ -1,0 +1,6 @@
+.has-danger label{
+    color: #dc3545;
+}
+.has-danger .form-control, .has-danger .custom-select{
+    border-color: #dc3545;
+}
