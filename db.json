@@ -1,0 +1,28 @@
+{
+  "contact": [
+    {
+      "firstName": "Abhijit",
+      "lastName": "Bedre",
+      "email": "abhijit.bedre@gmail.com",
+      "phone": "123456789",
+      "status": "Active",
+      "id": 1
+    },
+    {
+      "firstName": "Tanuj",
+      "lastName": "Pandey",
+      "email": "tanuj.d.pandey@gmail.com",
+      "phone": "123456789",
+      "status": "Inactive",
+      "id": 2
+    },
+    {
+      "firstName": "Prem",
+      "lastName": "Thaker",
+      "email": "prem.thaker@gmail.com",
+      "phone": null,
+      "status": "Active",
+      "id": 5
+    }
+  ]
+}
