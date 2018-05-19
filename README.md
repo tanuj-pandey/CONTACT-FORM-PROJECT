@@ -37,10 +37,6 @@ Create a db.json file in src/data folder
 ```
 
 ## Run
-command line 1
+command line 1 `json-server --watch src/data/db.json --port 4004`
 
-json-server --watch src/data/db.json --port 4004
-
-command line 2
-
-ng serve
+command line 2 `ng serve`
